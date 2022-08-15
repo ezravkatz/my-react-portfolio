@@ -9,6 +9,7 @@ function About() {
         <p>
           Welcome! My name is Ezra Katz. I am a full stack developer from Miami, Florida. 
         </p>
+        <p>Below, you can view some of my work!</p>
       </div>
     </section>
   );
